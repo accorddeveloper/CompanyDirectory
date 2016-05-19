@@ -1,0 +1,9 @@
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.BackEnd\bin\Debug\Homework.BackEnd.dll
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.BackEnd\bin\Debug\Homework.BackEnd.pdb
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.BackEnd\obj\Debug\Homework.BackEnd.csprojResolveAssemblyReference.cache
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.BackEnd\obj\Debug\Homework.BackEnd.dll
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.BackEnd\obj\Debug\Homework.BackEnd.pdb
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.BackEnd\bin\Debug\FluentValidationNA.dll
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.BackEnd\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.BackEnd\bin\Debug\FluentValidationNA.xml
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.BackEnd\bin\Debug\System.Linq.Dynamic.xml

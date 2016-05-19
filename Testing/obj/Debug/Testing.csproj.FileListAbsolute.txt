@@ -1,0 +1,12 @@
+C:\Users\Katharine\Desktop\Wonderlic_HW\Testing\bin\Debug\Testing.exe.config
+C:\Users\Katharine\Desktop\Wonderlic_HW\Testing\bin\Debug\Testing.exe
+C:\Users\Katharine\Desktop\Wonderlic_HW\Testing\bin\Debug\Testing.pdb
+C:\Users\Katharine\Desktop\Wonderlic_HW\Testing\bin\Debug\Homework.BackEnd.dll
+C:\Users\Katharine\Desktop\Wonderlic_HW\Testing\bin\Debug\Homework.BackEnd.pdb
+C:\Users\Katharine\Desktop\Wonderlic_HW\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\Katharine\Desktop\Wonderlic_HW\Testing\obj\Debug\Testing.exe
+C:\Users\Katharine\Desktop\Wonderlic_HW\Testing\obj\Debug\Testing.pdb
+C:\Users\Katharine\Desktop\Wonderlic_HW\Testing\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\Katharine\Desktop\Wonderlic_HW\Testing\bin\Debug\FluentValidationNA.dll
+C:\Users\Katharine\Desktop\Wonderlic_HW\Testing\bin\Debug\System.Linq.Dynamic.xml
+C:\Users\Katharine\Desktop\Wonderlic_HW\Testing\bin\Debug\FluentValidationNA.xml

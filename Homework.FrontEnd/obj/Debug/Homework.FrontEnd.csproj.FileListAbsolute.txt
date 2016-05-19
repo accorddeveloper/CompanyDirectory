@@ -1,0 +1,12 @@
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.FrontEnd\bin\Homework.FrontEnd.dll.config
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.FrontEnd\bin\Homework.FrontEnd.dll
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.FrontEnd\bin\Homework.FrontEnd.pdb
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.FrontEnd\bin\Homework.BackEnd.dll
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.FrontEnd\bin\Homework.BackEnd.pdb
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.FrontEnd\obj\Debug\Homework.FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.FrontEnd\obj\Debug\Homework.FrontEnd.dll
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.FrontEnd\obj\Debug\Homework.FrontEnd.pdb
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.FrontEnd\bin\System.Linq.Dynamic.dll
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.FrontEnd\bin\FluentValidationNA.dll
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.FrontEnd\bin\System.Linq.Dynamic.xml
+C:\Users\Katharine\Desktop\Wonderlic_HW\Homework.FrontEnd\bin\FluentValidationNA.xml

@@ -1,0 +1,48 @@
+﻿body {
+    font-family: 'Montserrat', Arial, sans-serif;
+    font-weight: 300;
+    margin-left:150px;
+    margin-top: 100px;
+}
+
+
+h2 { font-family: 'Montserrat', Arial, sans-serif;
+      font-weight: 300; 
+}
+
+
+#EmployeePicture{
+    margin-top:20px;
+}
+
+#backButton {
+
+    margin-top:15px;
+    margin-bottom: 25px;
+    margin-left: 35px;
+	-moz-box-shadow:inset 0px 39px 0px -24px #b54b3a;
+	-webkit-box-shadow:inset 0px 39px 0px -24px #b54b3a;
+	box-shadow:inset 0px 39px 0px -24px #b54b3a;
+	background-color:#a73f2d;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	border:1px solid #a73f2d;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	padding:6px 17px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #7a2a1d;
+}
+#backButton:hover {
+    background-color:#b34332;
+}
+
+#backButton:active {
+	position:relative;
+	top:1px;
+}
+
